@@ -1,0 +1,2542 @@
+canonical_identifier: bkk:krp/KR6s0003/v1
+canonical_location: https://kanripo.org/bkk/KR6s0003/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 諸經要集
+  identifiers:
+    alt_id:
+    - T54n2123
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2123.xml
+    old_id: T54n2123
+  edition:
+    short: bkk
+editions:
+- short: 元
+  label: 元
+  source_xml_id: wit1
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: ？
+  label: ？
+  source_xml_id: wit10
+- short: 甲
+  label: 甲
+  source_xml_id: wit11
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0003_000.yaml, hash: 'sha256:48f2b8844f4ff1423ab2677d33aa2905b54ba302855140be69e4ed2770bcd995'}
+  - {seq: 1, filename: KR6s0003_001.yaml, hash: 'sha256:039b9b857854fe93d0871c1f408932a2f747b63b9b8450edaa118542220c9cdf'}
+  - {seq: 2, filename: KR6s0003_002.yaml, hash: 'sha256:12cac754958bd5dc77705cb22f478ba651c3acb9836f1298dc0209882636445d'}
+  - {seq: 3, filename: KR6s0003_003.yaml, hash: 'sha256:de9fbde89fa7285dbcfe9435ab3971903f809f10169ff949f747b2a5679e855c'}
+  - {seq: 4, filename: KR6s0003_004.yaml, hash: 'sha256:21814063edc84644579e42402cfb2cd3f4bcd76394b1713fb982b125ff332e9d'}
+  - {seq: 5, filename: KR6s0003_005.yaml, hash: 'sha256:a5d9bfbbbf316744947d112ffb8a70488284b3201d8a7118d5b2b39bc957b133'}
+  - {seq: 6, filename: KR6s0003_006.yaml, hash: 'sha256:8f762c25afa782e3c9158fb4ed842092b734b3070c1ed893487778aa25a6edb2'}
+  - {seq: 7, filename: KR6s0003_007.yaml, hash: 'sha256:0d1a59601f6a2a553a0695c92d63f22f405de4750287e59f6ded4faa18893c39'}
+  - {seq: 8, filename: KR6s0003_008.yaml, hash: 'sha256:cf81b88c2e6cffd6b94b06b0c560ab8af6b13a4d3e5fa0d21ff11cde4552ccdf'}
+  - {seq: 9, filename: KR6s0003_009.yaml, hash: 'sha256:6a15a97d2c9a411ae8b769412bce2940eadcdd8bdd44938cc8e18889a1117b3d'}
+  - {seq: 10, filename: KR6s0003_010.yaml, hash: 'sha256:f383c64cb41ca3d618a0ebf60d1843dbdeafe55fd4a761fd41b1c114d2dea956'}
+  - {seq: 11, filename: KR6s0003_011.yaml, hash: 'sha256:d0758784fd65e5b1cf223095b6b8d414d4837885505371174ca5b3bf32f77e78'}
+  - {seq: 12, filename: KR6s0003_012.yaml, hash: 'sha256:0e94c42bac29e42138da57ef5dabd962b6192c91d62541a1556badb6bdc55b61'}
+  - {seq: 13, filename: KR6s0003_013.yaml, hash: 'sha256:07095cc045133aadf22f81488934c9441672bd83b98a20e88cf8ee5ef701c8d7'}
+  - {seq: 14, filename: KR6s0003_014.yaml, hash: 'sha256:9275618435d74f5756f3c5975f0aca023e6149b1445d3f53f907b9707f8775c4'}
+  - {seq: 15, filename: KR6s0003_015.yaml, hash: 'sha256:02484c723c736420d7d54a7b8682b3bda96a746e716d49c42266315c1e74e0c7'}
+  - {seq: 16, filename: KR6s0003_016.yaml, hash: 'sha256:9652fb6d11bd61ce8cc93f31e066709e3391d9c35a3563cca06271346983cac5'}
+  - {seq: 17, filename: KR6s0003_017.yaml, hash: 'sha256:e22db4083b9115cca69e75c4f5990dac6ea274c0165f29d7fa414dc809ef45f7'}
+  - {seq: 18, filename: KR6s0003_018.yaml, hash: 'sha256:224ccbe1d5e980170f596eddbfda81401d07488e081c075e1cf18e39e27327b1'}
+  - {seq: 19, filename: KR6s0003_019.yaml, hash: 'sha256:2ae8cb66848cab2676d34011983284fbde9f7cd1b54a3b0456170fff7b1ee367'}
+  - {seq: 20, filename: KR6s0003_020.yaml, hash: 'sha256:b0bfbeb889fafa326fb47131699f69971ace51a8961d22672cd6b62adbbda721'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0003_000.markers.yaml, hash: 'sha256:2f47deb2d781e1f34210e89a5fa1693ae500c99a43e7b506338b577fdadfc23c'}
+  - {seq: 1, role: markers, filename: assets/KR6s0003_001.markers.yaml, hash: 'sha256:42c884ec2b544ec860c4615497a2507c974c05c6e8ac4717f798a76b790a78f4'}
+  - {seq: 2, role: markers, filename: assets/KR6s0003_002.markers.yaml, hash: 'sha256:758bffb8b5aec9ddd6e0f7f6fe46adf87b28f18a02e86e4f5a8320324dcc9587'}
+  - {seq: 3, role: markers, filename: assets/KR6s0003_003.markers.yaml, hash: 'sha256:27c5a1c75b8b9ecfa382b9d655b3fcbd31a9d874a7170ab5075929b48f1e81f2'}
+  - {seq: 4, role: markers, filename: assets/KR6s0003_004.markers.yaml, hash: 'sha256:aa4f9c48df898e3ad71c18e7105f02d12ab96a7c269327c0de777608de5f71d7'}
+  - {seq: 5, role: markers, filename: assets/KR6s0003_005.markers.yaml, hash: 'sha256:d85cdfcc60fa1980bf41a58788310ee13d5c4aff9f4709c6b433923ff87f85e3'}
+  - {seq: 6, role: markers, filename: assets/KR6s0003_006.markers.yaml, hash: 'sha256:2f8c0652b70df8c36f2428e6c203f25e6f4bf3678ac2f822bf9372eb2b930040'}
+  - {seq: 7, role: markers, filename: assets/KR6s0003_007.markers.yaml, hash: 'sha256:3b6332d9e48551665d525cb11471a9bc08ece602d1d47e7b39ac5579b8c96d5a'}
+  - {seq: 8, role: markers, filename: assets/KR6s0003_008.markers.yaml, hash: 'sha256:821e34d20f42b02f4972ae8cac03283559b8d2dc103fa16ff96b4fd27a0f7582'}
+  - {seq: 9, role: markers, filename: assets/KR6s0003_009.markers.yaml, hash: 'sha256:f6c9318e20f69282b407de2180ce7c4e901486474d05c128df6edc22efe9030c'}
+  - {seq: 10, role: markers, filename: assets/KR6s0003_010.markers.yaml, hash: 'sha256:2e153ddb0ad59d4722cdb3e6351a301d34e04b947e5c7e7a9df7ecad668fd2d0'}
+  - {seq: 11, role: markers, filename: assets/KR6s0003_011.markers.yaml, hash: 'sha256:c61e579ec506fdea8014731457d23ef0dfac7c520134342d7b10cec7207be663'}
+  - {seq: 12, role: markers, filename: assets/KR6s0003_012.markers.yaml, hash: 'sha256:791339d39cd40f2c636d5cf6b6789520a5eb81f131913f857dcdafd37d73cd88'}
+  - {seq: 13, role: markers, filename: assets/KR6s0003_013.markers.yaml, hash: 'sha256:63d794f25b67e1b8cabf547ea201d31245864ef88a7c4430d58a8e2de76e2c64'}
+  - {seq: 14, role: markers, filename: assets/KR6s0003_014.markers.yaml, hash: 'sha256:b489a1975aeff86cc19e9cfd372fd6b38025213e8975319f5473d7ad5746d36e'}
+  - {seq: 15, role: markers, filename: assets/KR6s0003_015.markers.yaml, hash: 'sha256:582121852b36d1aaf1c27c01145a00cf5ed0f5a9e65b243bbdb0335e639f441a'}
+  - {seq: 16, role: markers, filename: assets/KR6s0003_016.markers.yaml, hash: 'sha256:f2eef388815b700c7b7d851872dff0919303f6bdb3dde6ff0a99b8ed8d4933b6'}
+  - {seq: 17, role: markers, filename: assets/KR6s0003_017.markers.yaml, hash: 'sha256:139fc3f65bec0d45359f97564fd83ba6a921dc6f7c49256796e31b7f7fe5d650'}
+  - {seq: 18, role: markers, filename: assets/KR6s0003_018.markers.yaml, hash: 'sha256:d9a019b92002d0770919056bdc18bcb74683259e4e71a3af284277835e146e1b'}
+  - {seq: 19, role: markers, filename: assets/KR6s0003_019.markers.yaml, hash: 'sha256:8c85812b21bb93d035a00823f8aade3d201b1c37da0ce025238ac277a4ede940'}
+  - {seq: 20, role: markers, filename: assets/KR6s0003_020.markers.yaml, hash: 'sha256:f298caef28133e118f85100ce7ac56bb79ddd11af1f17344c961f063cc8ec99c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6s0003_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 諸經要集序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0003_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10166
+  label: 諸經要集卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0003_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 1 三寶部
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0003_T_001-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: 1 敬佛篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0003_T_001-mulu-3
+    span:
+    - body
+    - 44
+    - 44
+  label: 1 普敬述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0003_T_001-mulu-4
+    span:
+    - body
+    - 609
+    - 609
+  label: 2 念十方佛緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0003_T_001-mulu-5
+    span:
+    - body
+    - 2014
+    - 2014
+  label: 3 念釋迦佛緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0003_T_001-mulu-6
+    span:
+    - body
+    - 3220
+    - 3220
+  label: 4 念彌陀佛緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0003_T_001-mulu-7
+    span:
+    - body
+    - 4930
+    - 4930
+  label: 5 念彌勒佛緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0003_T_001-mulu-8
+    span:
+    - body
+    - 7792
+    - 7792
+  label: 6 念佛三昧緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 14457
+  label: 諸經要集卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 2 敬法篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-2
+    span:
+    - body
+    - 51
+    - 51
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-3
+    span:
+    - body
+    - 209
+    - 209
+  label: 2 說法緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-4
+    span:
+    - body
+    - 1704
+    - 1704
+  label: 3 聽法緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-5
+    span:
+    - body
+    - 3889
+    - 3889
+  label: 4 漸頓緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-6
+    span:
+    - body
+    - 4495
+    - 4495
+  label: 5 求法緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-7
+    span:
+    - body
+    - 6163
+    - 6163
+  label: 6 感福緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-8
+    span:
+    - body
+    - 7600
+    - 7600
+  label: 7 報恩緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-9
+    span:
+    - body
+    - 8932
+    - 8932
+  label: 8 謗法緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-10
+    span:
+    - body
+    - 10157
+    - 10157
+  label: 3 敬僧篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-11
+    span:
+    - body
+    - 10175
+    - 10175
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-12
+    span:
+    - body
+    - 10529
+    - 10529
+  label: 2 順益緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0003_T_002-mulu-13
+    span:
+    - body
+    - 12544
+    - 12544
+  label: 3 違損緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 11409
+  label: 諸經要集卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 2 敬塔部
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-2
+    span:
+    - body
+    - 48
+    - 48
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-3
+    span:
+    - body
+    - 162
+    - 162
+  label: 2 引證緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-4
+    span:
+    - body
+    - 2216
+    - 2216
+  label: 3 興造緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-5
+    span:
+    - body
+    - 3162
+    - 3162
+  label: 4 感報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-6
+    span:
+    - body
+    - 4001
+    - 4001
+  label: 5 旋遶緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-7
+    span:
+    - body
+    - 4833
+    - 4833
+  label: 6 入寺緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-8
+    span:
+    - body
+    - 6345
+    - 6345
+  label: 7 修故緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-9
+    span:
+    - body
+    - 8444
+    - 8444
+  label: 3 攝念部
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-10
+    span:
+    - body
+    - 8465
+    - 8465
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-11
+    span:
+    - body
+    - 8617
+    - 8617
+  label: 2 十念緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-12
+    span:
+    - body
+    - 9438
+    - 9438
+  label: 3 六念緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0003_T_003-mulu-13
+    span:
+    - body
+    - 10912
+    - 10912
+  label: 4 發願緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 14578
+  label: 諸經要集卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 4 入道部
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-2
+    span:
+    - body
+    - 40
+    - 40
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-3
+    span:
+    - body
+    - 373
+    - 373
+  label: 2 欣厭緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-4
+    span:
+    - body
+    - 1607
+    - 1607
+  label: 3 出家緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-5
+    span:
+    - body
+    - 2202
+    - 2202
+  label: 4 引證緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-6
+    span:
+    - body
+    - 4803
+    - 4803
+  label: 5 唄讚部
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-7
+    span:
+    - body
+    - 4821
+    - 4821
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-8
+    span:
+    - body
+    - 5230
+    - 5230
+  label: 2 引證緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-9
+    span:
+    - body
+    - 6010
+    - 6010
+  label: 3 歎德緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-10
+    span:
+    - body
+    - 7604
+    - 7604
+  label: 6 香燈部
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-11
+    span:
+    - body
+    - 7625
+    - 7625
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-12
+    span:
+    - body
+    - 7816
+    - 7816
+  label: 2 華香緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-13
+    span:
+    - body
+    - 10538
+    - 10538
+  label: 3 然燈緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0003_T_004-mulu-14
+    span:
+    - body
+    - 13521
+    - 13521
+  label: 4 懸幡緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0003_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 11436
+  label: 諸經要集卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0003_T_005-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 7 受請部
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0003_T_005-mulu-2
+    span:
+    - body
+    - 42
+    - 42
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0003_T_005-mulu-3
+    span:
+    - body
+    - 214
+    - 214
+  label: 2 供養緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0003_T_005-mulu-4
+    span:
+    - body
+    - 2510
+    - 2510
+  label: 3 簡偽緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0003_T_005-mulu-5
+    span:
+    - body
+    - 4364
+    - 4364
+  label: 4 聖僧緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0003_T_005-mulu-6
+    span:
+    - body
+    - 6366
+    - 6366
+  label: 5 施食緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0003_T_005-mulu-7
+    span:
+    - body
+    - 8346
+    - 8346
+  label: 6 食時緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0003_T_005-mulu-8
+    span:
+    - body
+    - 8807
+    - 8807
+  label: 7 食法緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0003_T_005-mulu-9
+    span:
+    - body
+    - 10593
+    - 10593
+  label: 8 食訖緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 14826
+  label: 諸經要集卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 8 受齋部
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-2
+    span:
+    - body
+    - 40
+    - 40
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-3
+    span:
+    - body
+    - 108
+    - 108
+  label: 2 引證緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-4
+    span:
+    - body
+    - 2029
+    - 2029
+  label: 9 破齋部
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-5
+    span:
+    - body
+    - 2044
+    - 2044
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-6
+    span:
+    - body
+    - 2168
+    - 2168
+  label: 2 引證緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-7
+    span:
+    - body
+    - 4358
+    - 4358
+  label: 10 富貴部
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-8
+    span:
+    - body
+    - 4373
+    - 4373
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-9
+    span:
+    - body
+    - 4533
+    - 4533
+  label: 2 引證緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-10
+    span:
+    - body
+    - 9133
+    - 9133
+  label: 11 貧賤部
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-11
+    span:
+    - body
+    - 9158
+    - 9158
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-12
+    span:
+    - body
+    - 9374
+    - 9374
+  label: 2 引證緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-13
+    span:
+    - body
+    - 10374
+    - 10374
+  label: 3 須達緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-14
+    span:
+    - body
+    - 11582
+    - 11582
+  label: 4 貧兒緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0003_T_006-mulu-15
+    span:
+    - body
+    - 13273
+    - 13273
+  label: 5 貧女緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0003_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 13013
+  label: 諸經要集卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0003_T_007-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 12 獎道部
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0003_T_007-mulu-2
+    span:
+    - body
+    - 40
+    - 40
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0003_T_007-mulu-3
+    span:
+    - body
+    - 164
+    - 164
+  label: 2 誡男緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0003_T_007-mulu-4
+    span:
+    - body
+    - 1095
+    - 1095
+  label: 3 誡女緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0003_T_007-mulu-5
+    span:
+    - body
+    - 5497
+    - 5497
+  label: 4 勸導緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0003_T_007-mulu-6
+    span:
+    - body
+    - 7683
+    - 7683
+  label: 5 眷屬緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0003_T_007-mulu-7
+    span:
+    - body
+    - 10025
+    - 10025
+  label: 6 離著緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0003_T_007-mulu-8
+    span:
+    - body
+    - 10992
+    - 10992
+  label: 7 教誡緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 15285
+  label: 諸經要集卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 13 報恩部
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-2
+    span:
+    - body
+    - 40
+    - 40
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-3
+    span:
+    - body
+    - 216
+    - 216
+  label: 2 報恩緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-4
+    span:
+    - body
+    - 1653
+    - 1653
+  label: 3 背恩緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-5
+    span:
+    - body
+    - 4500
+    - 4500
+  label: 14 放生部
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-6
+    span:
+    - body
+    - 4522
+    - 4522
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-7
+    span:
+    - body
+    - 4752
+    - 4752
+  label: 2 興害緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-8
+    span:
+    - body
+    - 5223
+    - 5223
+  label: 3 放生緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-9
+    span:
+    - body
+    - 6788
+    - 6788
+  label: 4 救厄緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-10
+    span:
+    - body
+    - 9093
+    - 9093
+  label: 15 興福部
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-11
+    span:
+    - body
+    - 9121
+    - 9121
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-12
+    span:
+    - body
+    - 9548
+    - 9548
+  label: 2 修福緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-13
+    span:
+    - body
+    - 10879
+    - 10879
+  label: 3 應法緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-14
+    span:
+    - body
+    - 12457
+    - 12457
+  label: 4 䞋施緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-15
+    span:
+    - body
+    - 12681
+    - 12681
+  label: 5 洗僧緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0003_T_008-mulu-16
+    span:
+    - body
+    - 14159
+    - 14159
+  label: 6 雜福緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 11907
+  label: 諸經要集卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 16 擇交部
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-2
+    span:
+    - body
+    - 40
+    - 40
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-3
+    span:
+    - body
+    - 262
+    - 262
+  label: 2 善友緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-4
+    span:
+    - body
+    - 1333
+    - 1333
+  label: 3 惡友緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-5
+    span:
+    - body
+    - 3192
+    - 3192
+  label: 4 債負緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-6
+    span:
+    - body
+    - 5332
+    - 5332
+  label: 5 懲過緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-7
+    span:
+    - body
+    - 7326
+    - 7326
+  label: 17 思慎部
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-8
+    span:
+    - body
+    - 7351
+    - 7351
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-9
+    span:
+    - body
+    - 7494
+    - 7494
+  label: 2 慎過緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-10
+    span:
+    - body
+    - 9714
+    - 9714
+  label: 3 慎禍緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-11
+    span:
+    - body
+    - 9993
+    - 9993
+  label: 4 慎境緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0003_T_009-mulu-12
+    span:
+    - body
+    - 11492
+    - 11492
+  label: 5 慎用緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 18906
+  label: 諸經要集卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 18 六度部
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-2
+    span:
+    - body
+    - 21
+    - 21
+  label: 1 布施篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-3
+    span:
+    - body
+    - 50
+    - 50
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-4
+    span:
+    - body
+    - 298
+    - 298
+  label: 2 慳偽緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-5
+    span:
+    - body
+    - 1461
+    - 1461
+  label: 3 財施緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-6
+    span:
+    - body
+    - 2417
+    - 2417
+  label: 4 法施緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-7
+    span:
+    - body
+    - 3582
+    - 3582
+  label: 5 量施緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-8
+    span:
+    - body
+    - 4849
+    - 4849
+  label: 6 福田緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-9
+    span:
+    - body
+    - 5667
+    - 5667
+  label: 7 相對緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-10
+    span:
+    - body
+    - 7330
+    - 7330
+  label: 2 持戒篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-11
+    span:
+    - body
+    - 7339
+    - 7339
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-12
+    span:
+    - body
+    - 7649
+    - 7649
+  label: 2 勸持緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-13
+    span:
+    - body
+    - 10081
+    - 10081
+  label: 3 忍辱篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-14
+    span:
+    - body
+    - 10099
+    - 10099
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-15
+    span:
+    - body
+    - 10247
+    - 10247
+  label: 2 勸忍緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-16
+    span:
+    - body
+    - 10931
+    - 10931
+  label: 3 忍益緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-17
+    span:
+    - body
+    - 12682
+    - 12682
+  label: 4 精進篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-18
+    span:
+    - body
+    - 12700
+    - 12700
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-19
+    span:
+    - body
+    - 13218
+    - 13218
+  label: 2 懈惰緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-20
+    span:
+    - body
+    - 14055
+    - 14055
+  label: 3 策修緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-21
+    span:
+    - body
+    - 15272
+    - 15272
+  label: 5 禪定篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-22
+    span:
+    - body
+    - 15281
+    - 15281
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-23
+    span:
+    - body
+    - 15788
+    - 15788
+  label: 2 定相緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-24
+    span:
+    - body
+    - 16734
+    - 16734
+  label: 6 智慧篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-25
+    span:
+    - body
+    - 16743
+    - 16743
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0003_T_010-mulu-26
+    span:
+    - body
+    - 17127
+    - 17127
+  label: 2 求法緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0003_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 7479
+  label: 諸經要集卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0003_T_011-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 19 業因部
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0003_T_011-mulu-2
+    span:
+    - body
+    - 34
+    - 34
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0003_T_011-mulu-3
+    span:
+    - body
+    - 128
+    - 128
+  label: 2 發業緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0003_T_011-mulu-4
+    span:
+    - body
+    - 3631
+    - 3631
+  label: 3 罪行緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0003_T_011-mulu-5
+    span:
+    - body
+    - 4500
+    - 4500
+  label: 4 福行緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0003_T_011-mulu-6
+    span:
+    - body
+    - 5345
+    - 5345
+  label: 5 雜業緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 14392
+  label: 諸經要集卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 20 欲蓋部
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-2
+    span:
+    - body
+    - 35
+    - 35
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-3
+    span:
+    - body
+    - 386
+    - 386
+  label: 2 五欲緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-4
+    span:
+    - body
+    - 3749
+    - 3749
+  label: 3 五蓋緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-5
+    span:
+    - body
+    - 5431
+    - 5431
+  label: 21 四生部
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-6
+    span:
+    - body
+    - 5460
+    - 5460
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-7
+    span:
+    - body
+    - 5529
+    - 5529
+  label: 2 會名緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-8
+    span:
+    - body
+    - 5860
+    - 5860
+  label: 3 相攝緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-9
+    span:
+    - body
+    - 7845
+    - 7845
+  label: 4 五生緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-10
+    span:
+    - body
+    - 8465
+    - 8465
+  label: 5 中陰緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0003_T_012-mulu-11
+    span:
+    - body
+    - 13097
+    - 13097
+  label: 6 受胎緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 12084
+  label: 諸經要集卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 22 受報部
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-mulu-2
+    span:
+    - body
+    - 47
+    - 47
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-mulu-3
+    span:
+    - body
+    - 209
+    - 209
+  label: 2 報類緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-mulu-4
+    span:
+    - body
+    - 535
+    - 535
+  label: 3 現報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-mulu-5
+    span:
+    - body
+    - 981
+    - 981
+  label: 4 生報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-mulu-6
+    span:
+    - body
+    - 3849
+    - 3849
+  label: 5 後報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-mulu-7
+    span:
+    - body
+    - 4418
+    - 4418
+  label: 6 定報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-mulu-8
+    span:
+    - body
+    - 5448
+    - 5448
+  label: 7 不定緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-mulu-9
+    span:
+    - body
+    - 6254
+    - 6254
+  label: 8 善報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0003_T_013-mulu-10
+    span:
+    - body
+    - 7097
+    - 7097
+  label: 9 惡報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0003_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 13632
+  label: 諸經要集卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0003_T_014-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 23 十惡部
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0003_T_014-mulu-2
+    span:
+    - body
+    - 50
+    - 50
+  label: 1 殺生緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0003_T_014-mulu-3
+    span:
+    - body
+    - 2131
+    - 2131
+  label: 2 偷盜緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0003_T_014-mulu-4
+    span:
+    - body
+    - 6293
+    - 6293
+  label: 3 邪婬緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0003_T_014-mulu-5
+    span:
+    - body
+    - 9349
+    - 9349
+  label: 4 妄語緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0003_T_014-mulu-6
+    span:
+    - body
+    - 10552
+    - 10552
+  label: 5 惡口緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6s0003_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 12078
+  label: 諸經要集卷第十五十惡部之二
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6s0003_T_015-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 6 兩舌緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6s0003_T_015-mulu-2
+    span:
+    - body
+    - 968
+    - 968
+  label: 7 綺語緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6s0003_T_015-mulu-3
+    span:
+    - body
+    - 1506
+    - 1506
+  label: 8 慳貪緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6s0003_T_015-mulu-4
+    span:
+    - body
+    - 4731
+    - 4731
+  label: 9 瞋恚緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6s0003_T_015-mulu-5
+    span:
+    - body
+    - 8308
+    - 8308
+  label: 10 邪見緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 9814
+  label: 諸經要集卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 24 詐偽部
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-2
+    span:
+    - body
+    - 45
+    - 45
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-3
+    span:
+    - body
+    - 148
+    - 148
+  label: 2 詐親緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-4
+    span:
+    - body
+    - 753
+    - 753
+  label: 3 詐毒緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-5
+    span:
+    - body
+    - 1268
+    - 1268
+  label: 4 詐貴緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-6
+    span:
+    - body
+    - 2060
+    - 2060
+  label: 5 詐怖緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-7
+    span:
+    - body
+    - 2378
+    - 2378
+  label: 6 詐畜緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-8
+    span:
+    - body
+    - 6508
+    - 6508
+  label: 25 墮慢部
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-9
+    span:
+    - body
+    - 6528
+    - 6528
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-10
+    span:
+    - body
+    - 6728
+    - 6728
+  label: 2 引證緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6s0003_T_016-mulu-11
+    span:
+    - body
+    - 8063
+    - 8063
+  label: 3 立志緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6s0003_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 13490
+  label: 諸經要集卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6s0003_T_017-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 26 酒肉部
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6s0003_T_017-mulu-2
+    span:
+    - body
+    - 36
+    - 36
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6s0003_T_017-mulu-3
+    span:
+    - body
+    - 488
+    - 488
+  label: 2 飲酒緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6s0003_T_017-mulu-4
+    span:
+    - body
+    - 5163
+    - 5163
+  label: 3 食肉緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6s0003_T_017-mulu-5
+    span:
+    - body
+    - 9910
+    - 9910
+  label: 27 占相部
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6s0003_T_017-mulu-6
+    span:
+    - body
+    - 9930
+    - 9930
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6s0003_T_017-mulu-7
+    span:
+    - body
+    - 10005
+    - 10005
+  label: 2 觀相緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6s0003_T_017-mulu-8
+    span:
+    - body
+    - 12368
+    - 12368
+  label: 3 歸信緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6s0003_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 12429
+  label: 諸經要集卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6s0003_T_018-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 28 地獄部
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6s0003_T_018-mulu-2
+    span:
+    - body
+    - 44
+    - 44
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6s0003_T_018-mulu-3
+    span:
+    - body
+    - 193
+    - 193
+  label: 2 會名緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6s0003_T_018-mulu-4
+    span:
+    - body
+    - 699
+    - 699
+  label: 3 受報緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6s0003_T_018-mulu-5
+    span:
+    - body
+    - 5633
+    - 5633
+  label: 4 時量緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6s0003_T_018-mulu-6
+    span:
+    - body
+    - 6210
+    - 6210
+  label: 5 典主緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6s0003_T_018-mulu-7
+    span:
+    - body
+    - 6528
+    - 6528
+  label: 6 王都緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6s0003_T_018-mulu-8
+    span:
+    - body
+    - 7215
+    - 7215
+  label: 7 業因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6s0003_T_018-mulu-9
+    span:
+    - body
+    - 11477
+    - 11477
+  label: 8 誡勗緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 12435
+  label: 諸經要集卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 29 送終部
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-mulu-2
+    span:
+    - body
+    - 47
+    - 47
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-mulu-3
+    span:
+    - body
+    - 639
+    - 639
+  label: 2 瞻病緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-mulu-4
+    span:
+    - body
+    - 1731
+    - 1731
+  label: 3 醫療緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-mulu-5
+    span:
+    - body
+    - 2170
+    - 2170
+  label: 4 安置緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-mulu-6
+    span:
+    - body
+    - 2492
+    - 2492
+  label: 5 斂念緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-mulu-7
+    span:
+    - body
+    - 3315
+    - 3315
+  label: 6 捨命緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-mulu-8
+    span:
+    - body
+    - 4570
+    - 4570
+  label: 7 遣送緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-mulu-9
+    span:
+    - body
+    - 6606
+    - 6606
+  label: 8 受生緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6s0003_T_019-mulu-10
+    span:
+    - body
+    - 8867
+    - 8867
+  label: 9 祭祠緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 13159
+  label: 諸經要集卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 30 雜要部
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-2
+    span:
+    - body
+    - 59
+    - 59
+  label: 1 述意緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-3
+    span:
+    - body
+    - 209
+    - 209
+  label: 2 怨苦緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-4
+    span:
+    - body
+    - 1550
+    - 1550
+  label: 3 八苦緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-5
+    span:
+    - body
+    - 2789
+    - 2789
+  label: 4 蟲寓緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-6
+    span:
+    - body
+    - 6643
+    - 6643
+  label: 5 五辛緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-7
+    span:
+    - body
+    - 6997
+    - 6997
+  label: 6 啑氣緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-8
+    span:
+    - body
+    - 7272
+    - 7272
+  label: 7 便利緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-9
+    span:
+    - body
+    - 9671
+    - 9671
+  label: 8 護淨緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-10
+    span:
+    - body
+    - 10304
+    - 10304
+  label: 9 鳴鍾緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-11
+    span:
+    - body
+    - 10753
+    - 10753
+  label: 10 入眾緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-12
+    span:
+    - body
+    - 11138
+    - 11138
+  label: 11 衰相緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-13
+    span:
+    - body
+    - 11420
+    - 11420
+  label: 12 眠夢緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6s0003_T_020-mulu-14
+    span:
+    - body
+    - 12198
+    - 12198
+  label: 13 雜行緣
+  type: mulu
+  level: 1
+hash: sha256:6b754d9f5d4cea45174d0dcb1449173dae7891ec354d1f78a4b57e2618b56d64
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
